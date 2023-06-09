@@ -1,7 +1,7 @@
 - :scientist:	Hi there! I'm @pfaendler, a PhD student in Berend Snijder's lab at ETH Zurich, where I'm studying the phenotypic variability of induced pluripotent stem cells (iPSCs).
 - :bulb:	By perturbing iPSCs with various drugs, we are trying to understand cell-to-cell variability on the single-cell level using a combination of automated microscopy coupled to computer vision, with molecular measurements.
 - 🌱 I'm trying to use github to keep our research reproducible, but I'm still learning. 
-- :envelope: Feel free to drop me an [email](ramonpfaendler@gmail.com)
+- :envelope: Feel free to drop me an [email](mailto:ramonpfaendler@gmail.com)
 - 
 
 <!--
