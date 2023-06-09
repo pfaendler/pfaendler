@@ -1,4 +1,4 @@
-### Hi there 👋
+:scientist:	Hi there! I'm @pfaendler, a PhD student in Berend Snijder's lab at ETH Zurich. 
 
 <!--
 **pfaendler/pfaendler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
