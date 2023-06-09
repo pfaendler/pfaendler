@@ -1,5 +1,5 @@
 * :lab_coat: Hi there! I'm Ramon, a PhD student in Berend Snijder's lab at ETH Zurich, working with induced pluripotent stem cells (iPSCs).
-* :bulb: Trying to understand cell-to-cell variability of iPSCs using a combination of automated microscopy coupled to computer vision and molecular phenotyping.
+* :bulb: Trying to understand cell-to-cell variability of iPSCs using microscopy coupled to computer vision and molecular phenotyping.
 * 🌱 I'm trying to use github to keep our research reproducible, but I'm still learning. 
 * :envelope: Feel free to drop me an [email](mailto:ramonpfaendler@gmail.com)
 * ⚡ Sports enthusiast, ask me about :martial_arts_uniform: and 🏒
